@@ -1,4 +1,4 @@
-package simpleConcurrent;
+package simpleConcurrent.module1;
 
 import static es.urjc.etsii.code.concurrency.SimpleConcurrent.*;
 
