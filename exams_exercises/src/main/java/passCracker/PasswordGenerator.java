@@ -7,7 +7,7 @@ public class PasswordGenerator {
 	private int len;
 	
 	//private final String[] options = {"a", "e", "i", "o", "u"};
-	private final String[] options = {"a", "e"};
+	private final String[] options = {"a"};
 	
 	public PasswordGenerator(int l) {
 		this.len = l;
