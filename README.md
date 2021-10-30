@@ -14,3 +14,5 @@
 
 <br />
 This repo contains different exercises related with Java concurrent programming. All explanations of the different exercises can be found inside the files.
+
+Be sure to give this repo a :star: if you find it useful! :stuck_out_tongue_winking_eye:
